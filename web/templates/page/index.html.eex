@@ -21,5 +21,42 @@
     <p>just for you on themeforest</p>
     <a href="#">Get your copy now</a>
   </section>
+
+  <section id="description">
+    <article>
+      <figure><img src="" /></figure>
+      <p>
+        Profesionals
+      </p>
+      <hr />
+      <p>
+        lladjfhkkjsdnsajkfd
+      </p>
+    </article>
+    <article>
+      <figure><img src="" /></figure>
+      <p>
+        Profesionals
+      </p>
+      <hr />
+      <p>
+        lladjfhkkjsdnsajkfd
+      </p>
+    </article>
+    <article>
+      <figure><img src="" /></figure>
+      <p>
+        Profesionals
+      </p>
+      <hr />
+      <p>
+        lladjfhkkjsdnsajkfd
+      </p>
+    </article>
+
+  </section>
+
+
+
 </body>
 </html>

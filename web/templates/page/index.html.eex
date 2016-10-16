@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Test</title>
+</head>
+<body>
+  <section id="header">
+    <figure><img src="https://logomarts.files.wordpress.com/2015/07/logo-example2.jpg" alt="logo"></figure>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Features</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">otra</a></li>
+        <li><a href="#">otra de otra</a></li>
+        <li><a href="#">otra de otra de otra</a></li>
+        <li><a href="#">Final</a></li>
+      </ul>
+    </nav>
+    <h2>
+      Have a good day
+    </h2>
+    <p>just for you on themeforest</p>
+    <a href="#">Get your copy now</a>
+  </section>
+
+  <section id="description">
+    <article>
+      <figure><img src="" /></figure>
+      <p>
+        Profesionals
+      </p>
+      <hr />
+      <p>
+        lladjfhkkjsdnsajkfd
+      </p>
+    </article>
+    <article>
+      <figure><img src="" /></figure>
+      <p>
+        Profesionals
+      </p>
+      <hr />
+      <p>
+        lladjfhkkjsdnsajkfd
+      </p>
+    </article>
+    <article>
+      <figure><img src="" /></figure>
+      <p>
+        Profesionals
+      </p>
+      <hr />
+      <p>
+        lladjfhkkjsdnsajkfd
+      </p>
+    </article>
+
+  </section>
+
+  <section id="images">
+    <figure><img src="http://www.visit.ac.in/images/blog/small/2.jpg" alt="" /></figure>
+    <p>Responsive images</p>
+    <hr />
+    <p>Loremipum </p>
+    <a href="#">Read more</a>
+    <figure><img src="http://www.visit.ac.in/images/blog/small/2.jpg" alt="" /></figure>
+    <p>Responsive images</p>
+    <hr />
+    <p>Loremipum </p>
+    <a href="#">Read more</a>
+  </section>
+
+</body>
+</html>

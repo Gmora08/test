@@ -56,7 +56,18 @@
 
   </section>
 
-
+  <section id="images">
+    <figure><img src="http://www.visit.ac.in/images/blog/small/2.jpg" alt="" /></figure>
+    <p>Responsive images</p>
+    <hr />
+    <p>Loremipum </p>
+    <a href="#">Read more</a>
+    <figure><img src="http://www.visit.ac.in/images/blog/small/2.jpg" alt="" /></figure>
+    <p>Responsive images</p>
+    <hr />
+    <p>Loremipum </p>
+    <a href="#">Read more</a>
+  </section>
 
 </body>
 </html>
